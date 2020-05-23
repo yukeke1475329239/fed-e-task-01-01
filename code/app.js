@@ -9,10 +9,6 @@
 // a[6]()
 //第二题
 // var temp = 123
-
-// import { resolve } from "dns";
-// import { rejects } from "assert";
-
 // if(true){
 //   console.log(temp)
 //   let temp
@@ -62,6 +58,7 @@
 //     console.log(val+c)
 //   })
 // })
+
 
 
 
